@@ -1,0 +1,21 @@
+body {
+    background-color:hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.container {
+    height: 100vh;
+}
+
+p {
+    color: grey;
+    font-size: 15px;
+}
+
+.main {
+    height: 95%;
+}
+
+.qr-card {
+    background-color: hsl(0, 0%, 100%);
+}
