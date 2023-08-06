@@ -7,7 +7,7 @@ body {
     height: 100vh;
 }
 
-p {
+figcaption {
     color: grey;
     font-size: 15px;
 }
