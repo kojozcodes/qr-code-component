@@ -3,12 +3,17 @@ body {
     font-family: 'Outfit', sans-serif;
 }
 
+
 .container {
     height: 100vh;
 }
 
+.card-title {
+    color: hsl(218, 44%, 22%);
+}
+
 figcaption {
-    color: grey;
+    color: hsl(220, 15%, 55%);
     font-size: 15px;
 }
 
